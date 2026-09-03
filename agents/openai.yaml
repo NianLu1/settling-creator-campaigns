@@ -1,0 +1,4 @@
+interface:
+  display_name: "创作者活动结算"
+  short_description: "汇总创作者投稿播放量并计算多类活动奖励及异常明细"
+  default_prompt: "使用 $settling-creator-campaigns 根据投稿明细和活动规则生成可复核的结算表。"
